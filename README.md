@@ -1,4 +1,4 @@
-# שלום! 👋 אני יונתן
+# שלום! 👋 אני יהונתן
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Assistant&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full+Stack+Developer;Next.js+%26+React+Enthusiast;Coding+is+My+Passion" alt="Typing SVG" />
